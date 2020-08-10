@@ -48,4 +48,5 @@ IgnoreLexer.java~
 .settings/
 .classpath
 .project
+bin/
 #Eclipse Begginning
